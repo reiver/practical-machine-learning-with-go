@@ -1,7 +1,7 @@
 # Practical Machine Learning with Go
 
 A tutorial on machine learning for developers.
-It assumes that you aren't looking for machine learning theories, but practical ways to use of machine learning in your projects. 
+It assumes that you aren't looking for machine learning theories, but practical ways to use machine learning in your projects. 
 It covers the basic standard building blocks, and includes some sample code to help you get started.
 
 
